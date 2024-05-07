@@ -5,7 +5,7 @@ contador++;
 }
 
 conTador = 10;
-while (contador >=0){
+while (conTador >=0){
     console.log (conTador);
     conTador--;
 }
